@@ -1,0 +1,26 @@
+.cart {
+  text-align: center;
+}
+.cart-price-info {
+  text-align: left;
+}
+.total-price {
+  font-size: 1.3rem;
+  color: #b12704;
+  font-weight: 800;
+}
+
+.review-button {
+  background-color: #f0c14b;
+  width: 150px;
+  height: 30px;
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.items-count {
+  font-size: 1.6rem;
+  font-weight: bolder;
+  color: #b12704;
+}

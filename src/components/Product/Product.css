@@ -1,0 +1,33 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+}
+.product-image {
+  margin: 0.3rem;
+}
+.product-name {
+  color: blue;
+}
+.product-price {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.cart-button {
+  background-color: #f0c14b;
+  width: 150px;
+  height: 30px;
+  font-size: 1rem;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.col-right > div {
+  display: flex;
+}
+
+.col-right > div > div {
+  padding: 0.5rem;
+}
+.feature-list {
+  font-size: 0.8rem;
+}

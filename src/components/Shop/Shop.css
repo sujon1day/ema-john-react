@@ -1,0 +1,15 @@
+.shop-container{
+    width: 991px;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.product-container{
+    flex-basis: 700px;
+    border-right: 1px solid lightgray;
+    padding-right: 1rem;
+}
+.cart-container{
+    flex-basis: 250px;
+}
